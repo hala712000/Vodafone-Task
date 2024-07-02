@@ -1,0 +1,43 @@
+
+Part One:
+
+
+List of Ideas to Test for LinkedIn:
+
+User Authentication:
+
+Test login with valid/invalid credentials.
+Test signup process with various input fields.
+
+Profile Management:
+
+Test profile creation of personal information.
+Test profile photo upload.
+
+Job Search:
+
+Test search functionality with different job titles and locations.
+
+Messaging:
+
+Test sending messages to connections.
+Test receiving to messages.
+
+Notifications:
+
+Test notification for job updates.
+Test turning notifications on/off.
+
+Prioritization Based on Business Impact:
+
+User Authentication: Critical – affects all users.
+Profile Management: High – core feature for user engagement.
+Job Search: High – critical for user functionality.
+Messaging: Medium – important for user interaction.
+Notifications: Medium – enhances user experience.
+
+provided here testcase sheet :>  https://docs.google.com/spreadsheets/d/1YeGJLKQZjmhksaHOdOKY9esXFb43N-EG3jes5Iqu5XE/edit?usp=sharing
+
+Bug Report : 
+
+:>> https://docs.google.com/spreadsheets/d/1Yg6ttHhyb0zcBbT20J-unFv7WN0nDyPqHL0Tew9Y8AE/edit?usp=sharing
